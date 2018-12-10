@@ -3,6 +3,8 @@ Quantopian project that I worked on in the summer of 2017. I successfully ran it
 
 I eventually plan on running this on robinhoods REST API locally using zipline. The grunt of the work is finding an alternate data feed to get all of the essential information from.
 
+With that said this is a nightmare for any experienced programmer. Variable names at most times are completely random and the comments are very minimal.
+
 ## How to run your own backtests using this algorithm in quantopian.
 1. make a quantopian account
 2. Make an algorithm
