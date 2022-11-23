@@ -1,5 +1,5 @@
 # QS2017
-Quantopian project that I worked on in the summer of 2017. I successfully ran it for a few weeks but in september of 2017 Q ended live trading support. 
+Quantopian project that I worked on in the summer of 2017. I successfully ran it for a few weeks but in september of 2017 Q ended live trading support. This was my first project so the code is a mess & it's not meant for live trading
 
 
 ## How to run your own backtests using this algorithm in quantopian.
